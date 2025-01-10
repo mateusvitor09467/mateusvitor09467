@@ -29,8 +29,8 @@ I'm **Mateus Vitor**, a passionate developer dedicated to creating innovative so
 ---
 
 ### 📬 Let’s Connect!  
-💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mateus-vitor-1229b2221/))  
-💬 [Discord]([https://discord.gg/](https://discord.com/users/414533712521461771))  
+💼 [LinkedIn](https://www.linkedin.com/in/mateus-vitor-1229b2221/)  
+💬 [Discord](https://discord.com/users/414533712521461771)  
 
 ---
 
