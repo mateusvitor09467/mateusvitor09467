@@ -28,6 +28,12 @@ I'm **Mateus Vitor**, a passionate developer dedicated to creating innovative so
 
 ---
 
+### 📊 GitHub Stats  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusvitor09467&theme=blue-green)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusvitor09467&theme=blue-green)  
+
+---
+
 ### 📬 Let’s Connect!  
 💼 [LinkedIn](https://www.linkedin.com/in/mateus-vitor-1229b2221/)  
 💬 [Discord](https://discord.com/users/414533712521461771)  
